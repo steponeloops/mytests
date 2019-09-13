@@ -1,5 +1,5 @@
 <?php
 
-echo "das ist ein test";
+echo "das ist ein test - 2";
 
 ?>
